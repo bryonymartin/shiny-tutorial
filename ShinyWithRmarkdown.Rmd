@@ -10,6 +10,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)#, echo = FALSE, warningg = FALSE, message = FALSE)
 ```
 
+
 ```{r libraries} 
 library(dplyr)
 library(ggplot2)
@@ -20,6 +21,7 @@ library(shiny)
 mortality_zaf <- read_csv("~/Data science/R/shiny-tutorial/mortality_zaf.csv")
 population_zaf <- read_csv("~/Data science/R/shiny-tutorial/population_zaf.csv")
 ```
+
 
 ## Sorting out the data
 ```{r data}
@@ -53,6 +55,7 @@ ggplot(compare_provinces,
 
 ```
 
+
 ## Using shiny stuff in Rmd: creating inputs
 When using shiny in Rmd, there is no code for the sidebar layout, frame etc, just the objects
 ```{r shinyinputs}
@@ -83,6 +86,7 @@ selected_df <- reactive({
 })
 ```
 
+
 ## Making the plot using a reactive expression
 Note: this aspect of the code would sit within the server function.  In Rmd just put things in sequence.
 ```{r shinyplot}
@@ -100,6 +104,7 @@ renderPlot({
 })
 ```
 
+
 ## Making the plot a specficied shape...
 Note: this aspect of the code would sit within the server function.  In Rmd just put things in sequence.
 ```{r shinyplotincolumn}
@@ -116,3 +121,7 @@ fillCol(height = 800,
         y = input$y_axis)
         }, height = 800))
 ```
+
+
+
+
