@@ -78,6 +78,41 @@ selected_df <- reactive({
   subset_df <- compare_provinces[, c(1,2,
                         which(colnames(compare_provinces) == input$x_axis), 
                         which(colnames(compare_provinces) == input$y_axis))]
+  colnames(subset_df) <- c("province", "total", "x", "y")
+  subset_df
 })
 ```
 
+## Making the plot using a reactive expression
+Note: this aspect of the code would sit within the server function.  In Rmd just put things in sequence.
+```{r shinyplot}
+renderPlot({
+  ggplot(selected_df(), 
+       aes(x, y, 
+           label = province
+           )) + 
+  geom_point(aes(size = total),
+             alpha = 0.8, color = "magenta") +
+  geom_text(vjust = -1.5) +
+    theme_minimal() +
+    labs(x = input$x_axis,
+         y = input$y_axis)
+})
+```
+
+## Making the plot a specficied shape...
+Note: this aspect of the code would sit within the server function.  In Rmd just put things in sequence.
+```{r shinyplotincolumn}
+fillCol(height = 800,
+        renderPlot({
+        ggplot(selected_df(),
+        aes(x, y,
+        label = province)) +
+        geom_point(aes(size = total),
+        alpha = 0.8, color = "magenta") +
+        geom_text(vjust = -1.5) +
+        theme_minimal() +
+        labs(x = input$x_axis,
+        y = input$y_axis)
+        }, height = 800))
+```
