@@ -5,7 +5,7 @@ output:
   flexdashboard::flex_dashboard:
 
     orientation: columns
-    theme: lumen # optional
+    #theme: lumen # optional
     vertical_layout: fill
     source_code: embed
 ---
