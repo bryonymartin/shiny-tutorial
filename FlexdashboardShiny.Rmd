@@ -1,5 +1,6 @@
 ---
 title: "Mortality in SA"
+runtime: shiny
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -7,33 +8,140 @@ output:
 ---
 
 ```{r setup, include=FALSE}
+# Setup code runs once when start the app
+
+# Setup libraries and data
 library(flexdashboard)
 library(shiny)
 library(ggplot2)
 library(readr)
+library(dplyr)
+library(tidyr)
+library(leaflet)
+# Note: this data needs to be in local repo since needs to be read in.
+mortality_zaf <- read_csv("~/Data science/R/shiny-tutorial/mortality_zaf.csv")
+population_zaf <- read_csv("~/Data science/R/shiny-tutorial/population_zaf.csv")
+
+# create required dataframe for charts
+#totals
+totals <- population_zaf %>%
+  filter(year == 2013) %>%
+  select(province, total)
+#spread of data
+# this is the gplyr and tidyr pipe
+compare_provinces <- mortality_zaf %>%
+  left_join(totals) %>%
+  mutate(rate = deaths / total * 1e3) %>%
+  group_by(province, indicator) %>%
+  summarise(rate = mean(rate)) %>%
+  ungroup %>%
+  left_join(totals) %>%
+  spread(indicator, rate) # not including the data argument because included through the pipe %>%
+
+# remove all causes indicator from mortality dataset, after created compare_provinces
+mortality_zaf <- mortality_zaf %>%
+  filter(indicator != "All causes")
+
+
+
 ```
 
-Column {data-width=650}
------------------------------------------------------------------------
+Column {.sidebar}
+=======================================================================
+__About the sidebar:__ For the global sidebar, use level 1 header "=" underneath.
+Now this sidebar will be visible all the time. 'Column"" is a key word for the sidebar setup.
 
-### Chart A
+__About the dashboard:__ Data from Code4SA mortality report.
 
-```{r}
 
-```
+__About the charts:__ Use the input below to select what you want to explore.
 
-Column {data-width=350}
------------------------------------------------------------------------
+```{r sidebarinput}
+# shiny input in sidebar for user options
+selectInput(
+  inputId = "indicator",
+  label = "Cause of death:",
+  choices = unique(mortality_zaf$indicator),
+  selected = "Non-natural causes"
+)
 
-### Chart B
-
-```{r}
-
-```
-
-### Chart C
-
-```{r}
 
 ```
+
+Map {data-icon="fa-bullseye"} 
+==================================================
+
+### Where is the mortality rate highest?
+
+```{r mapPage}
+# create reactive expression for data subset that will be used across all pages
+selected_df <- reactive({
+  subset_df <- compare_provinces[, c(1,
+                        which(colnames(compare_provinces) == input$indicator)
+                        )]
+  colnames(subset_df) <- c("province", "indicator") 
+  population_zaf %>%
+    filter(year == 2013) %>%
+    left_join(subset_df) %>%
+    mutate(indicator = indicator / sum(indicator, na.rm = TRUE))
+  #subset_df
+})
+
+renderLeaflet({
+  leaflet(selected_df()) %>%
+    addProviderTiles("CartoDB.Positron") %>% #or leave blank for default tiles
+    addCircles(lng = ~longitude,
+               lat = ~latitude,
+               radius = ~sqrt(indicator)*1e5,
+               weight = 2.5,
+               color = "red",
+               popup = ~province)
+  
+})
+```
+
+
+Comparing provinces {data-icon="fa-birthday-cake"}
+===============================================
+
+### How does the selected mortality rate compare to the overall mortality rate?
+
+```{r provinceComparison}
+scatter_df <- reactive({
+  subset_df <- compare_provinces[, c(1,2,
+                        which(colnames(compare_provinces) == "All causes"),
+                              which(colnames(compare_provinces) == input$indicator))]
+  colnames(subset_df) <- c("province", "total", "x", "y")
+  subset_df
+  
+})
+
+renderPlot({
+  ggplot(scatter_df(), 
+       aes(x, y, 
+           label = province
+           )) + 
+  geom_point(aes(size = total),
+             alpha = 0.8, color = "red") +
+  geom_text(vjust = -2.5) +
+    theme_minimal() +
+    labs(x = "All causes",
+         y = input$indicator)
+})
+```
+
+
+Changes in time {data-icon="fa-anchor"}
+==================================================
+
+### How have the number of deaths changed over time?
+
+```{r linechart}
+renderPlot({
+  mortality_zaf %>%
+    filter(indicator == input$indicator) %>%
+    ggplot()
+})
+```
+
 
