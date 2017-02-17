@@ -1,0 +1,83 @@
+---
+title: "Shiny with R Markdown"
+author: "Bryony"
+date: "February 17, 2017"
+runtime: shiny
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)#, echo = FALSE, warningg = FALSE, message = FALSE)
+```
+
+```{r libraries} 
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(readr)
+library(shiny)
+# Note: this data needs to be in local repo since needs to be read in.
+mortality_zaf <- read_csv("~/Data science/R/shiny-tutorial/mortality_zaf.csv")
+population_zaf <- read_csv("~/Data science/R/shiny-tutorial/population_zaf.csv")
+```
+
+## Sorting out the data
+```{r data}
+totals <- population_zaf %>%
+  filter(year == 2013) %>%
+  select(province, total)
+
+# this is the gplyr and tidyr pipe
+compare_provinces <- mortality_zaf %>%
+  left_join(totals) %>%
+  mutate(rate = deaths / total * 1e3) %>%
+  group_by(province, indicator) %>%
+  summarise(rate = mean(rate)) %>%
+  ungroup %>%
+  left_join(totals) %>%
+  spread(indicator, rate) # not including the data argument because included through the pipe %>%
+  
+```
+
+
+## Making the plot - a regular static plot
+```{r staticplot}
+ggplot(compare_provinces, 
+       aes(`Tuberculosis (A15-A19)`,
+           `Human immunodeficiency virus [HIV] disease (B20-B24)`, label = province
+           )) + 
+  geom_point(aes(size = total),
+             alpha = 0.8, color = "midnightblue") +
+  geom_text(vjust = -1.5) +
+    theme_minimal()
+
+```
+
+## Using shiny stuff in Rmd: creating inputs
+When using shiny in Rmd, there is no code for the sidebar layout, frame etc, just the objects
+```{r shinyinputs}
+selectInput(inputId = "x_axis",
+            label = "Choose the horizontal axis indicator:",
+            choices = colnames(compare_provinces)[3:20],
+            selected = "Non-natural causes"
+            )
+
+selectInput(inputId = "y_axis",
+            label = "Choose the vertical axis indicator:",
+            choices = colnames(compare_provinces)[3:20],
+            selected = "Tuberculosis (A15-A19)"
+            )
+
+```
+
+
+## Making a reactive expression
+Note: the curly braces "{}" are visual cue for reactive code
+```{r reactive}
+selected_df <- reactive({
+  subset_df <- compare_provinces[, c(1,2,
+                        which(colnames(compare_provinces) == input$x_axis), 
+                        which(colnames(compare_provinces) == input$y_axis))]
+})
+```
+

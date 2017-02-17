@@ -1,0 +1,699 @@
+"","province","indicator","year","deaths"
+"1","Western Cape","All causes",2008,46728
+"2","Western Cape","All causes",2009,45398
+"3","Western Cape","All causes",2010,45711
+"4","Western Cape","All causes",2011,45743
+"5","Western Cape","All causes",2012,46148
+"6","Western Cape","All causes",2013,46007
+"7","Western Cape","Non-natural causes",2008,6073
+"8","Western Cape","Non-natural causes",2009,5282
+"9","Western Cape","Non-natural causes",2010,5243
+"10","Western Cape","Non-natural causes",2011,5314
+"11","Western Cape","Non-natural causes",2012,5508
+"12","Western Cape","Non-natural causes",2013,5896
+"13","Western Cape","Other natural causes",2008,17901
+"14","Western Cape","Other natural causes",2009,17283
+"15","Western Cape","Other natural causes",2010,17363
+"16","Western Cape","Other natural causes",2011,17311
+"17","Western Cape","Other natural causes",2012,17070
+"18","Western Cape","Other natural causes",2013,16753
+"19","Western Cape","Hypertensive diseases (I10-I15)",2008,1371
+"20","Western Cape","Hypertensive diseases (I10-I15)",2009,1564
+"21","Western Cape","Hypertensive diseases (I10-I15)",2010,1503
+"22","Western Cape","Hypertensive diseases (I10-I15)",2011,1603
+"23","Western Cape","Hypertensive diseases (I10-I15)",2012,1752
+"24","Western Cape","Hypertensive diseases (I10-I15)",2013,1684
+"25","Western Cape","Malignant neoplasm of respiratory and intrathoracic organs (C30-39)",2008,1538
+"26","Western Cape","Malignant neoplasm of respiratory and intrathoracic organs (C30-39)",2009,1665
+"27","Western Cape","Malignant neoplasm of respiratory and intrathoracic organs (C30-39)",2010,1757
+"28","Western Cape","Malignant neoplasm of respiratory and intrathoracic organs (C30-39)",2011,1833
+"29","Western Cape","Malignant neoplasm of respiratory and intrathoracic organs (C30-39)",2012,1888
+"30","Western Cape","Malignant neoplasm of respiratory and intrathoracic organs (C30-39)",2013,2063
+"31","Western Cape","Other forms of heart disease (I30-I52)",2008,1708
+"32","Western Cape","Other forms of heart disease (I30-I52)",2009,1534
+"33","Western Cape","Other forms of heart disease (I30-I52)",2010,1470
+"34","Western Cape","Other forms of heart disease (I30-I52)",2011,1364
+"35","Western Cape","Other forms of heart disease (I30-I52)",2012,1447
+"36","Western Cape","Other forms of heart disease (I30-I52)",2013,1442
+"37","Western Cape","Malignant neoplasm of digestive organs (C15-C26)",2008,1776
+"38","Western Cape","Malignant neoplasm of digestive organs (C15-C26)",2009,1825
+"39","Western Cape","Malignant neoplasm of digestive organs (C15-C26)",2010,1893
+"40","Western Cape","Malignant neoplasm of digestive organs (C15-C26)",2011,1950
+"41","Western Cape","Malignant neoplasm of digestive organs (C15-C26)",2012,1924
+"42","Western Cape","Malignant neoplasm of digestive organs (C15-C26)",2013,2074
+"43","Western Cape","Chronic lower respiratory diseases (J40-J47)",2008,1958
+"44","Western Cape","Chronic lower respiratory diseases (J40-J47)",2009,1984
+"45","Western Cape","Chronic lower respiratory diseases (J40-J47)",2010,2016
+"46","Western Cape","Chronic lower respiratory diseases (J40-J47)",2011,2058
+"47","Western Cape","Chronic lower respiratory diseases (J40-J47)",2012,2208
+"48","Western Cape","Chronic lower respiratory diseases (J40-J47)",2013,2184
+"49","Western Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2008,2013
+"50","Western Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2009,2347
+"51","Western Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2010,2754
+"52","Western Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2011,2590
+"53","Western Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,2647
+"54","Western Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,2745
+"55","Western Cape","Cerebrovascular diseases (I60-I69)",2008,2393
+"56","Western Cape","Cerebrovascular diseases (I60-I69)",2009,2274
+"57","Western Cape","Cerebrovascular diseases (I60-I69)",2010,2458
+"58","Western Cape","Cerebrovascular diseases (I60-I69)",2011,2832
+"59","Western Cape","Cerebrovascular diseases (I60-I69)",2012,2793
+"60","Western Cape","Cerebrovascular diseases (I60-I69)",2013,2582
+"61","Western Cape","Diabetes mellitus (E10-E14)",2008,2711
+"62","Western Cape","Diabetes mellitus (E10-E14)",2009,2824
+"63","Western Cape","Diabetes mellitus (E10-E14)",2010,3035
+"64","Western Cape","Diabetes mellitus (E10-E14)",2011,2897
+"65","Western Cape","Diabetes mellitus (E10-E14)",2012,3114
+"66","Western Cape","Diabetes mellitus (E10-E14)",2013,3174
+"67","Western Cape","Ischaemic heart diseases (I20-I25)",2008,2770
+"68","Western Cape","Ischaemic heart diseases (I20-I25)",2009,2775
+"69","Western Cape","Ischaemic heart diseases (I20-I25)",2010,2646
+"70","Western Cape","Ischaemic heart diseases (I20-I25)",2011,2766
+"71","Western Cape","Ischaemic heart diseases (I20-I25)",2012,2845
+"72","Western Cape","Ischaemic heart diseases (I20-I25)",2013,2767
+"73","Western Cape","Tuberculosis (A15-A19)",2008,4516
+"74","Western Cape","Tuberculosis (A15-A19)",2009,4041
+"75","Western Cape","Tuberculosis (A15-A19)",2010,3573
+"76","Western Cape","Tuberculosis (A15-A19)",2011,3225
+"77","Western Cape","Tuberculosis (A15-A19)",2012,2952
+"78","Western Cape","Tuberculosis (A15-A19)",2013,2643
+"79","Eastern Cape","All causes",2008,83159
+"80","Eastern Cape","All causes",2009,82132
+"81","Eastern Cape","All causes",2010,80627
+"82","Eastern Cape","All causes",2011,73035
+"83","Eastern Cape","All causes",2012,65481
+"84","Eastern Cape","All causes",2013,63935
+"85","Eastern Cape","Non-natural causes",2008,7585
+"86","Eastern Cape","Non-natural causes",2009,7216
+"87","Eastern Cape","Non-natural causes",2010,7363
+"88","Eastern Cape","Non-natural causes",2011,6969
+"89","Eastern Cape","Non-natural causes",2012,6543
+"90","Eastern Cape","Non-natural causes",2013,6870
+"91","Eastern Cape","Other natural causes",2008,37623
+"92","Eastern Cape","Other natural causes",2009,37333
+"93","Eastern Cape","Other natural causes",2010,36301
+"94","Eastern Cape","Other natural causes",2011,34130
+"95","Eastern Cape","Other natural causes",2012,30991
+"96","Eastern Cape","Other natural causes",2013,28702
+"97","Eastern Cape","Other viral diseases (B25-B34)",2008,1825
+"98","Eastern Cape","Other viral diseases (B25-B34)",2009,2169
+"99","Eastern Cape","Other viral diseases (B25-B34)",2010,2621
+"100","Eastern Cape","Other viral diseases (B25-B34)",2011,2569
+"101","Eastern Cape","Other viral diseases (B25-B34)",2012,2311
+"102","Eastern Cape","Other viral diseases (B25-B34)",2013,1853
+"103","Eastern Cape","Certain disorders involving the immune mechanism (D80-D89)",2008,2283
+"104","Eastern Cape","Certain disorders involving the immune mechanism (D80-D89)",2012,1501
+"105","Eastern Cape","Intestinal infectious diseases (A00-A09)",2008,3831
+"106","Eastern Cape","Intestinal infectious diseases (A00-A09)",2009,3059
+"107","Eastern Cape","Intestinal infectious diseases (A00-A09)",2010,3041
+"108","Eastern Cape","Intestinal infectious diseases (A00-A09)",2011,1903
+"109","Eastern Cape","Influenza and pneumonia (J10-J18)",2008,3977
+"110","Eastern Cape","Influenza and pneumonia (J10-J18)",2009,3689
+"111","Eastern Cape","Influenza and pneumonia (J10-J18)",2010,3458
+"112","Eastern Cape","Influenza and pneumonia (J10-J18)",2011,2903
+"113","Eastern Cape","Influenza and pneumonia (J10-J18)",2012,2096
+"114","Eastern Cape","Influenza and pneumonia (J10-J18)",2013,2007
+"115","Eastern Cape","Hypertensive diseases (I10-I15)",2008,1995
+"116","Eastern Cape","Hypertensive diseases (I10-I15)",2009,2112
+"117","Eastern Cape","Hypertensive diseases (I10-I15)",2010,2061
+"118","Eastern Cape","Hypertensive diseases (I10-I15)",2011,2081
+"119","Eastern Cape","Hypertensive diseases (I10-I15)",2012,2032
+"120","Eastern Cape","Hypertensive diseases (I10-I15)",2013,2154
+"121","Eastern Cape","Other forms of heart disease (I30-I52)",2008,3319
+"122","Eastern Cape","Other forms of heart disease (I30-I52)",2009,3641
+"123","Eastern Cape","Other forms of heart disease (I30-I52)",2010,3697
+"124","Eastern Cape","Other forms of heart disease (I30-I52)",2011,3242
+"125","Eastern Cape","Other forms of heart disease (I30-I52)",2012,2881
+"126","Eastern Cape","Other forms of heart disease (I30-I52)",2013,3016
+"127","Eastern Cape","Malignant neoplasm of digestive organs (C15-C26)",2013,1520
+"128","Eastern Cape","Chronic lower respiratory diseases (J40-J47)",2008,3437
+"129","Eastern Cape","Chronic lower respiratory diseases (J40-J47)",2009,3344
+"130","Eastern Cape","Chronic lower respiratory diseases (J40-J47)",2010,3006
+"131","Eastern Cape","Chronic lower respiratory diseases (J40-J47)",2011,2754
+"132","Eastern Cape","Chronic lower respiratory diseases (J40-J47)",2012,2400
+"133","Eastern Cape","Chronic lower respiratory diseases (J40-J47)",2013,2399
+"134","Eastern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2009,2349
+"135","Eastern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2010,2519
+"136","Eastern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2011,2264
+"137","Eastern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,2293
+"138","Eastern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,3467
+"139","Eastern Cape","Cerebrovascular diseases (I60-I69)",2008,3167
+"140","Eastern Cape","Cerebrovascular diseases (I60-I69)",2009,3315
+"141","Eastern Cape","Cerebrovascular diseases (I60-I69)",2010,3491
+"142","Eastern Cape","Cerebrovascular diseases (I60-I69)",2011,3378
+"143","Eastern Cape","Cerebrovascular diseases (I60-I69)",2012,2930
+"144","Eastern Cape","Cerebrovascular diseases (I60-I69)",2013,2941
+"145","Eastern Cape","Diabetes mellitus (E10-E14)",2008,2616
+"146","Eastern Cape","Diabetes mellitus (E10-E14)",2009,2773
+"147","Eastern Cape","Diabetes mellitus (E10-E14)",2010,2864
+"148","Eastern Cape","Diabetes mellitus (E10-E14)",2011,2527
+"149","Eastern Cape","Diabetes mellitus (E10-E14)",2012,2431
+"150","Eastern Cape","Diabetes mellitus (E10-E14)",2013,2734
+"151","Eastern Cape","Tuberculosis (A15-A19)",2008,11501
+"152","Eastern Cape","Tuberculosis (A15-A19)",2009,11132
+"153","Eastern Cape","Tuberculosis (A15-A19)",2010,10205
+"154","Eastern Cape","Tuberculosis (A15-A19)",2011,8315
+"155","Eastern Cape","Tuberculosis (A15-A19)",2012,7072
+"156","Eastern Cape","Tuberculosis (A15-A19)",2013,6272
+"157","Northern Cape","All causes",2008,15263
+"158","Northern Cape","All causes",2009,15082
+"159","Northern Cape","All causes",2010,15183
+"160","Northern Cape","All causes",2011,14718
+"161","Northern Cape","All causes",2012,13971
+"162","Northern Cape","All causes",2013,13699
+"163","Northern Cape","Non-natural causes",2008,1285
+"164","Northern Cape","Non-natural causes",2009,1275
+"165","Northern Cape","Non-natural causes",2010,1344
+"166","Northern Cape","Non-natural causes",2011,1235
+"167","Northern Cape","Non-natural causes",2012,1531
+"168","Northern Cape","Non-natural causes",2013,1537
+"169","Northern Cape","Other natural causes",2008,7011
+"170","Northern Cape","Other natural causes",2009,6970
+"171","Northern Cape","Other natural causes",2010,7305
+"172","Northern Cape","Other natural causes",2011,7386
+"173","Northern Cape","Other natural causes",2012,6406
+"174","Northern Cape","Other natural causes",2013,5742
+"175","Northern Cape","Certain disorders involving the immune mechanism (D80-D89)",2008,402
+"176","Northern Cape","Certain disorders involving the immune mechanism (D80-D89)",2009,383
+"177","Northern Cape","Certain disorders involving the immune mechanism (D80-D89)",2010,412
+"178","Northern Cape","Certain disorders involving the immune mechanism (D80-D89)",2011,395
+"179","Northern Cape","Certain disorders involving the immune mechanism (D80-D89)",2012,310
+"180","Northern Cape","Intestinal infectious diseases (A00-A09)",2008,747
+"181","Northern Cape","Intestinal infectious diseases (A00-A09)",2009,577
+"182","Northern Cape","Intestinal infectious diseases (A00-A09)",2010,586
+"183","Northern Cape","Intestinal infectious diseases (A00-A09)",2011,448
+"184","Northern Cape","Intestinal infectious diseases (A00-A09)",2013,378
+"185","Northern Cape","Influenza and pneumonia (J10-J18)",2008,993
+"186","Northern Cape","Influenza and pneumonia (J10-J18)",2009,844
+"187","Northern Cape","Influenza and pneumonia (J10-J18)",2010,747
+"188","Northern Cape","Influenza and pneumonia (J10-J18)",2011,761
+"189","Northern Cape","Influenza and pneumonia (J10-J18)",2012,554
+"190","Northern Cape","Influenza and pneumonia (J10-J18)",2013,600
+"191","Northern Cape","Hypertensive diseases (I10-I15)",2008,409
+"192","Northern Cape","Hypertensive diseases (I10-I15)",2009,447
+"193","Northern Cape","Hypertensive diseases (I10-I15)",2010,433
+"194","Northern Cape","Hypertensive diseases (I10-I15)",2011,432
+"195","Northern Cape","Hypertensive diseases (I10-I15)",2012,510
+"196","Northern Cape","Hypertensive diseases (I10-I15)",2013,621
+"197","Northern Cape","Other forms of heart disease (I30-I52)",2008,657
+"198","Northern Cape","Other forms of heart disease (I30-I52)",2009,582
+"199","Northern Cape","Other forms of heart disease (I30-I52)",2010,592
+"200","Northern Cape","Other forms of heart disease (I30-I52)",2011,535
+"201","Northern Cape","Other forms of heart disease (I30-I52)",2012,448
+"202","Northern Cape","Other forms of heart disease (I30-I52)",2013,446
+"203","Northern Cape","Chronic lower respiratory diseases (J40-J47)",2008,527
+"204","Northern Cape","Chronic lower respiratory diseases (J40-J47)",2009,575
+"205","Northern Cape","Chronic lower respiratory diseases (J40-J47)",2010,514
+"206","Northern Cape","Chronic lower respiratory diseases (J40-J47)",2011,550
+"207","Northern Cape","Chronic lower respiratory diseases (J40-J47)",2012,533
+"208","Northern Cape","Chronic lower respiratory diseases (J40-J47)",2013,546
+"209","Northern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2008,431
+"210","Northern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2009,883
+"211","Northern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2010,761
+"212","Northern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2011,660
+"213","Northern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,945
+"214","Northern Cape","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,1187
+"215","Northern Cape","Cerebrovascular diseases (I60-I69)",2008,628
+"216","Northern Cape","Cerebrovascular diseases (I60-I69)",2009,632
+"217","Northern Cape","Cerebrovascular diseases (I60-I69)",2010,630
+"218","Northern Cape","Cerebrovascular diseases (I60-I69)",2011,689
+"219","Northern Cape","Cerebrovascular diseases (I60-I69)",2012,657
+"220","Northern Cape","Cerebrovascular diseases (I60-I69)",2013,636
+"221","Northern Cape","Diabetes mellitus (E10-E14)",2008,405
+"222","Northern Cape","Diabetes mellitus (E10-E14)",2009,449
+"223","Northern Cape","Diabetes mellitus (E10-E14)",2010,463
+"224","Northern Cape","Diabetes mellitus (E10-E14)",2011,381
+"225","Northern Cape","Diabetes mellitus (E10-E14)",2012,478
+"226","Northern Cape","Diabetes mellitus (E10-E14)",2013,522
+"227","Northern Cape","Ischaemic heart diseases (I20-I25)",2012,366
+"228","Northern Cape","Ischaemic heart diseases (I20-I25)",2013,423
+"229","Northern Cape","Tuberculosis (A15-A19)",2008,1768
+"230","Northern Cape","Tuberculosis (A15-A19)",2009,1465
+"231","Northern Cape","Tuberculosis (A15-A19)",2010,1396
+"232","Northern Cape","Tuberculosis (A15-A19)",2011,1246
+"233","Northern Cape","Tuberculosis (A15-A19)",2012,1233
+"234","Northern Cape","Tuberculosis (A15-A19)",2013,1061
+"235","Free State","All causes",2008,49111
+"236","Free State","All causes",2009,47265
+"237","Free State","All causes",2010,45018
+"238","Free State","All causes",2011,40635
+"239","Free State","All causes",2012,35054
+"240","Free State","All causes",2013,33382
+"241","Free State","Non-natural causes",2008,3244
+"242","Free State","Non-natural causes",2009,3128
+"243","Free State","Non-natural causes",2010,3270
+"244","Free State","Non-natural causes",2011,3128
+"245","Free State","Non-natural causes",2012,3202
+"246","Free State","Non-natural causes",2013,3176
+"247","Free State","Other natural causes",2008,18552
+"248","Free State","Other natural causes",2009,19319
+"249","Free State","Other natural causes",2010,18335
+"250","Free State","Other natural causes",2011,17430
+"251","Free State","Other natural causes",2012,15047
+"252","Free State","Other natural causes",2013,14363
+"253","Free State","Other viral diseases (B25-B34)",2012,862
+"254","Free State","Other viral diseases (B25-B34)",2013,976
+"255","Free State","Certain disorders involving the immune mechanism (D80-D89)",2008,2049
+"256","Free State","Certain disorders involving the immune mechanism (D80-D89)",2009,2094
+"257","Free State","Certain disorders involving the immune mechanism (D80-D89)",2010,1643
+"258","Free State","Certain disorders involving the immune mechanism (D80-D89)",2011,1425
+"259","Free State","Certain disorders involving the immune mechanism (D80-D89)",2012,1155
+"260","Free State","Certain disorders involving the immune mechanism (D80-D89)",2013,849
+"261","Free State","Intestinal infectious diseases (A00-A09)",2008,4622
+"262","Free State","Intestinal infectious diseases (A00-A09)",2009,3190
+"263","Free State","Intestinal infectious diseases (A00-A09)",2010,2976
+"264","Free State","Intestinal infectious diseases (A00-A09)",2011,2089
+"265","Free State","Intestinal infectious diseases (A00-A09)",2012,1227
+"266","Free State","Intestinal infectious diseases (A00-A09)",2013,1374
+"267","Free State","Influenza and pneumonia (J10-J18)",2008,6379
+"268","Free State","Influenza and pneumonia (J10-J18)",2009,5872
+"269","Free State","Influenza and pneumonia (J10-J18)",2010,5440
+"270","Free State","Influenza and pneumonia (J10-J18)",2011,4376
+"271","Free State","Influenza and pneumonia (J10-J18)",2012,2850
+"272","Free State","Influenza and pneumonia (J10-J18)",2013,2455
+"273","Free State","Hypertensive diseases (I10-I15)",2008,1263
+"274","Free State","Hypertensive diseases (I10-I15)",2009,1267
+"275","Free State","Hypertensive diseases (I10-I15)",2010,1182
+"276","Free State","Hypertensive diseases (I10-I15)",2011,1187
+"277","Free State","Hypertensive diseases (I10-I15)",2012,1318
+"278","Free State","Hypertensive diseases (I10-I15)",2013,1331
+"279","Free State","Other forms of heart disease (I30-I52)",2008,2305
+"280","Free State","Other forms of heart disease (I30-I52)",2009,2411
+"281","Free State","Other forms of heart disease (I30-I52)",2010,2365
+"282","Free State","Other forms of heart disease (I30-I52)",2011,2240
+"283","Free State","Other forms of heart disease (I30-I52)",2012,1868
+"284","Free State","Other forms of heart disease (I30-I52)",2013,1724
+"285","Free State","Chronic lower respiratory diseases (J40-J47)",2008,932
+"286","Free State","Chronic lower respiratory diseases (J40-J47)",2009,944
+"287","Free State","Chronic lower respiratory diseases (J40-J47)",2010,821
+"288","Free State","Chronic lower respiratory diseases (J40-J47)",2011,865
+"289","Free State","Human immunodeficiency virus [HIV] disease (B20-B24)",2008,917
+"290","Free State","Human immunodeficiency virus [HIV] disease (B20-B24)",2011,850
+"291","Free State","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,1188
+"292","Free State","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,1193
+"293","Free State","Cerebrovascular diseases (I60-I69)",2008,1763
+"294","Free State","Cerebrovascular diseases (I60-I69)",2009,1787
+"295","Free State","Cerebrovascular diseases (I60-I69)",2010,1932
+"296","Free State","Cerebrovascular diseases (I60-I69)",2011,1973
+"297","Free State","Cerebrovascular diseases (I60-I69)",2012,1837
+"298","Free State","Cerebrovascular diseases (I60-I69)",2013,1732
+"299","Free State","Diabetes mellitus (E10-E14)",2008,1313
+"300","Free State","Diabetes mellitus (E10-E14)",2009,1262
+"301","Free State","Diabetes mellitus (E10-E14)",2010,1245
+"302","Free State","Diabetes mellitus (E10-E14)",2011,1169
+"303","Free State","Diabetes mellitus (E10-E14)",2012,1236
+"304","Free State","Diabetes mellitus (E10-E14)",2013,1366
+"305","Free State","Ischaemic heart diseases (I20-I25)",2009,812
+"306","Free State","Ischaemic heart diseases (I20-I25)",2010,805
+"307","Free State","Tuberculosis (A15-A19)",2008,5772
+"308","Free State","Tuberculosis (A15-A19)",2009,5179
+"309","Free State","Tuberculosis (A15-A19)",2010,5004
+"310","Free State","Tuberculosis (A15-A19)",2011,3903
+"311","Free State","Tuberculosis (A15-A19)",2012,3264
+"312","Free State","Tuberculosis (A15-A19)",2013,2843
+"313","KwaZulu-Natal","All causes",2008,134907
+"314","KwaZulu-Natal","All causes",2009,127369
+"315","KwaZulu-Natal","All causes",2010,115889
+"316","KwaZulu-Natal","All causes",2011,104652
+"317","KwaZulu-Natal","All causes",2012,96749
+"318","KwaZulu-Natal","All causes",2013,84193
+"319","KwaZulu-Natal","Non-natural causes",2008,11653
+"320","KwaZulu-Natal","Non-natural causes",2009,10799
+"321","KwaZulu-Natal","Non-natural causes",2010,10213
+"322","KwaZulu-Natal","Non-natural causes",2011,9277
+"323","KwaZulu-Natal","Non-natural causes",2012,9441
+"324","KwaZulu-Natal","Non-natural causes",2013,8591
+"325","KwaZulu-Natal","Other natural causes",2008,52790
+"326","KwaZulu-Natal","Other natural causes",2009,50498
+"327","KwaZulu-Natal","Other natural causes",2010,44156
+"328","KwaZulu-Natal","Other natural causes",2011,40309
+"329","KwaZulu-Natal","Other natural causes",2012,38378
+"330","KwaZulu-Natal","Other natural causes",2013,31745
+"331","KwaZulu-Natal","Other viral diseases (B25-B34)",2008,3944
+"332","KwaZulu-Natal","Other viral diseases (B25-B34)",2009,3798
+"333","KwaZulu-Natal","Other viral diseases (B25-B34)",2010,3550
+"334","KwaZulu-Natal","Other viral diseases (B25-B34)",2011,4164
+"335","KwaZulu-Natal","Other viral diseases (B25-B34)",2012,3791
+"336","KwaZulu-Natal","Other viral diseases (B25-B34)",2013,3123
+"337","KwaZulu-Natal","Intestinal infectious diseases (A00-A09)",2008,9812
+"338","KwaZulu-Natal","Intestinal infectious diseases (A00-A09)",2009,7907
+"339","KwaZulu-Natal","Intestinal infectious diseases (A00-A09)",2010,6583
+"340","KwaZulu-Natal","Intestinal infectious diseases (A00-A09)",2011,4389
+"341","KwaZulu-Natal","Intestinal infectious diseases (A00-A09)",2012,3429
+"342","KwaZulu-Natal","Intestinal infectious diseases (A00-A09)",2013,3362
+"343","KwaZulu-Natal","Influenza and pneumonia (J10-J18)",2008,7665
+"344","KwaZulu-Natal","Influenza and pneumonia (J10-J18)",2009,7197
+"345","KwaZulu-Natal","Influenza and pneumonia (J10-J18)",2010,6492
+"346","KwaZulu-Natal","Influenza and pneumonia (J10-J18)",2011,5280
+"347","KwaZulu-Natal","Influenza and pneumonia (J10-J18)",2012,4012
+"348","KwaZulu-Natal","Influenza and pneumonia (J10-J18)",2013,3213
+"349","KwaZulu-Natal","Hypertensive diseases (I10-I15)",2008,2569
+"350","KwaZulu-Natal","Hypertensive diseases (I10-I15)",2009,2631
+"351","KwaZulu-Natal","Hypertensive diseases (I10-I15)",2010,2711
+"352","KwaZulu-Natal","Hypertensive diseases (I10-I15)",2011,2867
+"353","KwaZulu-Natal","Hypertensive diseases (I10-I15)",2012,2964
+"354","KwaZulu-Natal","Hypertensive diseases (I10-I15)",2013,2855
+"355","KwaZulu-Natal","Other forms of heart disease (I30-I52)",2008,5216
+"356","KwaZulu-Natal","Other forms of heart disease (I30-I52)",2009,5351
+"357","KwaZulu-Natal","Other forms of heart disease (I30-I52)",2010,5615
+"358","KwaZulu-Natal","Other forms of heart disease (I30-I52)",2011,5227
+"359","KwaZulu-Natal","Other forms of heart disease (I30-I52)",2012,4486
+"360","KwaZulu-Natal","Other forms of heart disease (I30-I52)",2013,3714
+"361","KwaZulu-Natal","Chronic lower respiratory diseases (J40-J47)",2011,981
+"362","KwaZulu-Natal","Human immunodeficiency virus [HIV] disease (B20-B24)",2008,4857
+"363","KwaZulu-Natal","Human immunodeficiency virus [HIV] disease (B20-B24)",2009,4743
+"364","KwaZulu-Natal","Human immunodeficiency virus [HIV] disease (B20-B24)",2010,5060
+"365","KwaZulu-Natal","Human immunodeficiency virus [HIV] disease (B20-B24)",2011,4956
+"366","KwaZulu-Natal","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,4817
+"367","KwaZulu-Natal","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,6117
+"368","KwaZulu-Natal","Cerebrovascular diseases (I60-I69)",2008,6237
+"369","KwaZulu-Natal","Cerebrovascular diseases (I60-I69)",2009,6257
+"370","KwaZulu-Natal","Cerebrovascular diseases (I60-I69)",2010,5636
+"371","KwaZulu-Natal","Cerebrovascular diseases (I60-I69)",2011,5753
+"372","KwaZulu-Natal","Cerebrovascular diseases (I60-I69)",2012,5383
+"373","KwaZulu-Natal","Cerebrovascular diseases (I60-I69)",2013,4857
+"374","KwaZulu-Natal","Diabetes mellitus (E10-E14)",2008,4843
+"375","KwaZulu-Natal","Diabetes mellitus (E10-E14)",2009,4901
+"376","KwaZulu-Natal","Diabetes mellitus (E10-E14)",2010,5214
+"377","KwaZulu-Natal","Diabetes mellitus (E10-E14)",2011,4925
+"378","KwaZulu-Natal","Diabetes mellitus (E10-E14)",2012,5049
+"379","KwaZulu-Natal","Diabetes mellitus (E10-E14)",2013,4796
+"380","KwaZulu-Natal","Ischaemic heart diseases (I20-I25)",2008,2542
+"381","KwaZulu-Natal","Ischaemic heart diseases (I20-I25)",2010,2454
+"382","KwaZulu-Natal","Ischaemic heart diseases (I20-I25)",2011,2471
+"383","KwaZulu-Natal","Ischaemic heart diseases (I20-I25)",2012,2173
+"384","KwaZulu-Natal","Ischaemic heart diseases (I20-I25)",2013,1813
+"385","KwaZulu-Natal","Tuberculosis (A15-A19)",2008,22779
+"386","KwaZulu-Natal","Tuberculosis (A15-A19)",2009,20618
+"387","KwaZulu-Natal","Tuberculosis (A15-A19)",2010,18205
+"388","KwaZulu-Natal","Tuberculosis (A15-A19)",2011,15034
+"389","KwaZulu-Natal","Tuberculosis (A15-A19)",2012,12826
+"390","KwaZulu-Natal","Tuberculosis (A15-A19)",2013,10007
+"391","North West","All causes",2008,45390
+"392","North West","All causes",2009,40372
+"393","North West","All causes",2010,40059
+"394","North West","All causes",2011,37555
+"395","North West","All causes",2012,35824
+"396","North West","All causes",2013,35531
+"397","North West","Non-natural causes",2008,3616
+"398","North West","Non-natural causes",2009,2890
+"399","North West","Non-natural causes",2010,2954
+"400","North West","Non-natural causes",2011,2762
+"401","North West","Non-natural causes",2012,2980
+"402","North West","Non-natural causes",2013,2992
+"403","North West","Other natural causes",2008,18538
+"404","North West","Other natural causes",2009,16611
+"405","North West","Other natural causes",2010,16058
+"406","North West","Other natural causes",2011,15445
+"407","North West","Other natural causes",2012,14964
+"408","North West","Other natural causes",2013,14778
+"409","North West","Other viral diseases (B25-B34)",2010,1030
+"410","North West","Other viral diseases (B25-B34)",2011,1360
+"411","North West","Other viral diseases (B25-B34)",2012,1456
+"412","North West","Other viral diseases (B25-B34)",2013,1151
+"413","North West","Certain disorders involving the immune mechanism (D80-D89)",2008,1377
+"414","North West","Certain disorders involving the immune mechanism (D80-D89)",2009,1282
+"415","North West","Certain disorders involving the immune mechanism (D80-D89)",2010,1091
+"416","North West","Certain disorders involving the immune mechanism (D80-D89)",2011,1264
+"417","North West","Certain disorders involving the immune mechanism (D80-D89)",2012,1077
+"418","North West","Certain disorders involving the immune mechanism (D80-D89)",2013,878
+"419","North West","Intestinal infectious diseases (A00-A09)",2008,3426
+"420","North West","Intestinal infectious diseases (A00-A09)",2009,2331
+"421","North West","Intestinal infectious diseases (A00-A09)",2010,2162
+"422","North West","Intestinal infectious diseases (A00-A09)",2011,1549
+"423","North West","Intestinal infectious diseases (A00-A09)",2012,1167
+"424","North West","Intestinal infectious diseases (A00-A09)",2013,1449
+"425","North West","Influenza and pneumonia (J10-J18)",2008,4302
+"426","North West","Influenza and pneumonia (J10-J18)",2009,3895
+"427","North West","Influenza and pneumonia (J10-J18)",2010,3630
+"428","North West","Influenza and pneumonia (J10-J18)",2011,3149
+"429","North West","Influenza and pneumonia (J10-J18)",2012,2596
+"430","North West","Influenza and pneumonia (J10-J18)",2013,2487
+"431","North West","Hypertensive diseases (I10-I15)",2008,1395
+"432","North West","Hypertensive diseases (I10-I15)",2009,1536
+"433","North West","Hypertensive diseases (I10-I15)",2010,1616
+"434","North West","Hypertensive diseases (I10-I15)",2011,1706
+"435","North West","Hypertensive diseases (I10-I15)",2012,1743
+"436","North West","Hypertensive diseases (I10-I15)",2013,1835
+"437","North West","Other forms of heart disease (I30-I52)",2008,2434
+"438","North West","Other forms of heart disease (I30-I52)",2009,2285
+"439","North West","Other forms of heart disease (I30-I52)",2010,2527
+"440","North West","Other forms of heart disease (I30-I52)",2011,2196
+"441","North West","Other forms of heart disease (I30-I52)",2012,2057
+"442","North West","Other forms of heart disease (I30-I52)",2013,2082
+"443","North West","Chronic lower respiratory diseases (J40-J47)",2008,935
+"444","North West","Chronic lower respiratory diseases (J40-J47)",2009,945
+"445","North West","Chronic lower respiratory diseases (J40-J47)",2011,2343
+"446","North West","Human immunodeficiency virus [HIV] disease (B20-B24)",2008,922
+"447","North West","Human immunodeficiency virus [HIV] disease (B20-B24)",2009,980
+"448","North West","Human immunodeficiency virus [HIV] disease (B20-B24)",2010,1090
+"449","North West","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,1092
+"450","North West","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,1706
+"451","North West","Cerebrovascular diseases (I60-I69)",2008,1729
+"452","North West","Cerebrovascular diseases (I60-I69)",2009,1572
+"453","North West","Cerebrovascular diseases (I60-I69)",2010,1657
+"454","North West","Cerebrovascular diseases (I60-I69)",2011,1740
+"455","North West","Cerebrovascular diseases (I60-I69)",2012,1717
+"456","North West","Cerebrovascular diseases (I60-I69)",2013,1644
+"457","North West","Diabetes mellitus (E10-E14)",2008,1101
+"458","North West","Diabetes mellitus (E10-E14)",2009,1063
+"459","North West","Diabetes mellitus (E10-E14)",2010,1302
+"460","North West","Diabetes mellitus (E10-E14)",2011,1168
+"461","North West","Diabetes mellitus (E10-E14)",2012,1253
+"462","North West","Diabetes mellitus (E10-E14)",2013,1432
+"463","North West","Tuberculosis (A15-A19)",2008,5615
+"464","North West","Tuberculosis (A15-A19)",2009,4982
+"465","North West","Tuberculosis (A15-A19)",2010,4942
+"466","North West","Tuberculosis (A15-A19)",2011,4235
+"467","North West","Tuberculosis (A15-A19)",2012,3722
+"468","North West","Tuberculosis (A15-A19)",2013,3097
+"469","Gauteng","All causes",2008,115909
+"470","Gauteng","All causes",2009,114729
+"471","Gauteng","All causes",2010,105673
+"472","Gauteng","All causes",2011,100751
+"473","Gauteng","All causes",2012,98549
+"474","Gauteng","All causes",2013,97595
+"475","Gauteng","Non-natural causes",2008,11642
+"476","Gauteng","Non-natural causes",2009,10857
+"477","Gauteng","Non-natural causes",2010,10338
+"478","Gauteng","Non-natural causes",2011,9740
+"479","Gauteng","Non-natural causes",2012,10072
+"480","Gauteng","Non-natural causes",2013,10299
+"481","Gauteng","Other natural causes",2008,52196
+"482","Gauteng","Other natural causes",2009,53245
+"483","Gauteng","Other natural causes",2010,49886
+"484","Gauteng","Other natural causes",2011,48362
+"485","Gauteng","Other natural causes",2012,47575
+"486","Gauteng","Other natural causes",2013,47016
+"487","Gauteng","Other viral diseases (B25-B34)",2012,2660
+"488","Gauteng","Other viral diseases (B25-B34)",2013,2645
+"489","Gauteng","Certain disorders involving the immune mechanism (D80-D89)",2008,2616
+"490","Gauteng","Certain disorders involving the immune mechanism (D80-D89)",2012,2354
+"491","Gauteng","Intestinal infectious diseases (A00-A09)",2008,6222
+"492","Gauteng","Intestinal infectious diseases (A00-A09)",2009,4820
+"493","Gauteng","Intestinal infectious diseases (A00-A09)",2010,3936
+"494","Gauteng","Intestinal infectious diseases (A00-A09)",2011,2810
+"495","Gauteng","Intestinal infectious diseases (A00-A09)",2013,2293
+"496","Gauteng","Influenza and pneumonia (J10-J18)",2008,10137
+"497","Gauteng","Influenza and pneumonia (J10-J18)",2009,9573
+"498","Gauteng","Influenza and pneumonia (J10-J18)",2010,7940
+"499","Gauteng","Influenza and pneumonia (J10-J18)",2011,7159
+"500","Gauteng","Influenza and pneumonia (J10-J18)",2012,5916
+"501","Gauteng","Influenza and pneumonia (J10-J18)",2013,5772
+"502","Gauteng","Hypertensive diseases (I10-I15)",2008,2646
+"503","Gauteng","Hypertensive diseases (I10-I15)",2009,2889
+"504","Gauteng","Hypertensive diseases (I10-I15)",2010,2638
+"505","Gauteng","Hypertensive diseases (I10-I15)",2011,2748
+"506","Gauteng","Hypertensive diseases (I10-I15)",2012,2986
+"507","Gauteng","Hypertensive diseases (I10-I15)",2013,3162
+"508","Gauteng","Other forms of heart disease (I30-I52)",2008,5875
+"509","Gauteng","Other forms of heart disease (I30-I52)",2009,6152
+"510","Gauteng","Other forms of heart disease (I30-I52)",2010,5494
+"511","Gauteng","Other forms of heart disease (I30-I52)",2011,5340
+"512","Gauteng","Other forms of heart disease (I30-I52)",2012,5147
+"513","Gauteng","Other forms of heart disease (I30-I52)",2013,5112
+"514","Gauteng","Chronic lower respiratory diseases (J40-J47)",2009,2399
+"515","Gauteng","Chronic lower respiratory diseases (J40-J47)",2010,2217
+"516","Gauteng","Chronic lower respiratory diseases (J40-J47)",2011,792
+"517","Gauteng","Human immunodeficiency virus [HIV] disease (B20-B24)",2008,2752
+"518","Gauteng","Human immunodeficiency virus [HIV] disease (B20-B24)",2009,3223
+"519","Gauteng","Human immunodeficiency virus [HIV] disease (B20-B24)",2010,3248
+"520","Gauteng","Human immunodeficiency virus [HIV] disease (B20-B24)",2011,2667
+"521","Gauteng","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,3244
+"522","Gauteng","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,3411
+"523","Gauteng","Cerebrovascular diseases (I60-I69)",2008,4057
+"524","Gauteng","Cerebrovascular diseases (I60-I69)",2009,4382
+"525","Gauteng","Cerebrovascular diseases (I60-I69)",2010,4138
+"526","Gauteng","Cerebrovascular diseases (I60-I69)",2011,4678
+"527","Gauteng","Cerebrovascular diseases (I60-I69)",2012,4285
+"528","Gauteng","Cerebrovascular diseases (I60-I69)",2013,3946
+"529","Gauteng","Diabetes mellitus (E10-E14)",2008,3595
+"530","Gauteng","Diabetes mellitus (E10-E14)",2009,3689
+"531","Gauteng","Diabetes mellitus (E10-E14)",2010,3747
+"532","Gauteng","Diabetes mellitus (E10-E14)",2011,3603
+"533","Gauteng","Diabetes mellitus (E10-E14)",2012,3766
+"534","Gauteng","Diabetes mellitus (E10-E14)",2013,3960
+"535","Gauteng","Ischaemic heart diseases (I20-I25)",2008,2804
+"536","Gauteng","Ischaemic heart diseases (I20-I25)",2009,2905
+"537","Gauteng","Ischaemic heart diseases (I20-I25)",2010,2844
+"538","Gauteng","Ischaemic heart diseases (I20-I25)",2011,2863
+"539","Gauteng","Ischaemic heart diseases (I20-I25)",2012,2907
+"540","Gauteng","Ischaemic heart diseases (I20-I25)",2013,2837
+"541","Gauteng","Tuberculosis (A15-A19)",2008,11367
+"542","Gauteng","Tuberculosis (A15-A19)",2009,10595
+"543","Gauteng","Tuberculosis (A15-A19)",2010,9247
+"544","Gauteng","Tuberculosis (A15-A19)",2011,8438
+"545","Gauteng","Tuberculosis (A15-A19)",2012,7637
+"546","Gauteng","Tuberculosis (A15-A19)",2013,7142
+"547","Mpumalanga","All causes",2008,47651
+"548","Mpumalanga","All causes",2009,45703
+"549","Mpumalanga","All causes",2010,41773
+"550","Mpumalanga","All causes",2011,38037
+"551","Mpumalanga","All causes",2012,36299
+"552","Mpumalanga","All causes",2013,34820
+"553","Mpumalanga","Non-natural causes",2008,3881
+"554","Mpumalanga","Non-natural causes",2009,3971
+"555","Mpumalanga","Non-natural causes",2010,3455
+"556","Mpumalanga","Non-natural causes",2011,3365
+"557","Mpumalanga","Non-natural causes",2012,3541
+"558","Mpumalanga","Non-natural causes",2013,3666
+"559","Mpumalanga","Other natural causes",2008,16920
+"560","Mpumalanga","Other natural causes",2009,16381
+"561","Mpumalanga","Other natural causes",2010,15420
+"562","Mpumalanga","Other natural causes",2011,13877
+"563","Mpumalanga","Other natural causes",2012,13694
+"564","Mpumalanga","Other natural causes",2013,12919
+"565","Mpumalanga","Other viral diseases (B25-B34)",2011,1194
+"566","Mpumalanga","Other viral diseases (B25-B34)",2012,1411
+"567","Mpumalanga","Other viral diseases (B25-B34)",2013,1530
+"568","Mpumalanga","Certain disorders involving the immune mechanism (D80-D89)",2008,1761
+"569","Mpumalanga","Certain disorders involving the immune mechanism (D80-D89)",2009,1480
+"570","Mpumalanga","Certain disorders involving the immune mechanism (D80-D89)",2010,1092
+"571","Mpumalanga","Certain disorders involving the immune mechanism (D80-D89)",2011,1219
+"572","Mpumalanga","Certain disorders involving the immune mechanism (D80-D89)",2012,1155
+"573","Mpumalanga","Intestinal infectious diseases (A00-A09)",2008,4616
+"574","Mpumalanga","Intestinal infectious diseases (A00-A09)",2009,3493
+"575","Mpumalanga","Intestinal infectious diseases (A00-A09)",2010,3094
+"576","Mpumalanga","Intestinal infectious diseases (A00-A09)",2011,2213
+"577","Mpumalanga","Intestinal infectious diseases (A00-A09)",2012,1838
+"578","Mpumalanga","Intestinal infectious diseases (A00-A09)",2013,1823
+"579","Mpumalanga","Influenza and pneumonia (J10-J18)",2008,4934
+"580","Mpumalanga","Influenza and pneumonia (J10-J18)",2009,4279
+"581","Mpumalanga","Influenza and pneumonia (J10-J18)",2010,3932
+"582","Mpumalanga","Influenza and pneumonia (J10-J18)",2011,3083
+"583","Mpumalanga","Influenza and pneumonia (J10-J18)",2012,2409
+"584","Mpumalanga","Influenza and pneumonia (J10-J18)",2013,2037
+"585","Mpumalanga","Hypertensive diseases (I10-I15)",2008,1325
+"586","Mpumalanga","Hypertensive diseases (I10-I15)",2009,1380
+"587","Mpumalanga","Hypertensive diseases (I10-I15)",2010,1275
+"588","Mpumalanga","Hypertensive diseases (I10-I15)",2011,1437
+"589","Mpumalanga","Hypertensive diseases (I10-I15)",2012,1371
+"590","Mpumalanga","Hypertensive diseases (I10-I15)",2013,1404
+"591","Mpumalanga","Other forms of heart disease (I30-I52)",2008,2072
+"592","Mpumalanga","Other forms of heart disease (I30-I52)",2009,2009
+"593","Mpumalanga","Other forms of heart disease (I30-I52)",2010,1989
+"594","Mpumalanga","Other forms of heart disease (I30-I52)",2011,1564
+"595","Mpumalanga","Other forms of heart disease (I30-I52)",2012,1505
+"596","Mpumalanga","Other forms of heart disease (I30-I52)",2013,1457
+"597","Mpumalanga","Chronic lower respiratory diseases (J40-J47)",2008,987
+"598","Mpumalanga","Human immunodeficiency virus [HIV] disease (B20-B24)",2008,1010
+"599","Mpumalanga","Human immunodeficiency virus [HIV] disease (B20-B24)",2009,1752
+"600","Mpumalanga","Human immunodeficiency virus [HIV] disease (B20-B24)",2010,1188
+"601","Mpumalanga","Human immunodeficiency virus [HIV] disease (B20-B24)",2011,1308
+"602","Mpumalanga","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,1343
+"603","Mpumalanga","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,1772
+"604","Mpumalanga","Cerebrovascular diseases (I60-I69)",2008,2180
+"605","Mpumalanga","Cerebrovascular diseases (I60-I69)",2009,2151
+"606","Mpumalanga","Cerebrovascular diseases (I60-I69)",2010,1992
+"607","Mpumalanga","Cerebrovascular diseases (I60-I69)",2011,2161
+"608","Mpumalanga","Cerebrovascular diseases (I60-I69)",2012,2086
+"609","Mpumalanga","Cerebrovascular diseases (I60-I69)",2013,1796
+"610","Mpumalanga","Diabetes mellitus (E10-E14)",2008,1339
+"611","Mpumalanga","Diabetes mellitus (E10-E14)",2009,1593
+"612","Mpumalanga","Diabetes mellitus (E10-E14)",2010,1561
+"613","Mpumalanga","Diabetes mellitus (E10-E14)",2011,1513
+"614","Mpumalanga","Diabetes mellitus (E10-E14)",2012,1577
+"615","Mpumalanga","Diabetes mellitus (E10-E14)",2013,1664
+"616","Mpumalanga","Tuberculosis (A15-A19)",2008,6626
+"617","Mpumalanga","Tuberculosis (A15-A19)",2009,6137
+"618","Mpumalanga","Tuberculosis (A15-A19)",2010,5595
+"619","Mpumalanga","Tuberculosis (A15-A19)",2011,5103
+"620","Mpumalanga","Tuberculosis (A15-A19)",2012,4369
+"621","Mpumalanga","Tuberculosis (A15-A19)",2013,3700
+"622","Limpopo","All causes",2008,53319
+"623","Limpopo","All causes",2009,52907
+"624","Limpopo","All causes",2010,50017
+"625","Limpopo","All causes",2011,47347
+"626","Limpopo","All causes",2012,49121
+"627","Limpopo","All causes",2013,47549
+"628","Limpopo","Non-natural causes",2008,3894
+"629","Limpopo","Non-natural causes",2009,3871
+"630","Limpopo","Non-natural causes",2010,3757
+"631","Limpopo","Non-natural causes",2011,3788
+"632","Limpopo","Non-natural causes",2012,3933
+"633","Limpopo","Non-natural causes",2013,3830
+"634","Limpopo","Other natural causes",2008,22665
+"635","Limpopo","Other natural causes",2009,22262
+"636","Limpopo","Other natural causes",2010,21490
+"637","Limpopo","Other natural causes",2011,19812
+"638","Limpopo","Other natural causes",2012,21824
+"639","Limpopo","Other natural causes",2013,20258
+"640","Limpopo","Inflammatory diseases of the central nervous system (G00-G09)",2008,679
+"641","Limpopo","Inflammatory diseases of the central nervous system (G00-G09)",2009,717
+"642","Limpopo","Inflammatory diseases of the central nervous system (G00-G09)",2013,1133
+"643","Limpopo","Other viral diseases (B25-B34)",2010,872
+"644","Limpopo","Other viral diseases (B25-B34)",2011,1636
+"645","Limpopo","Other viral diseases (B25-B34)",2012,1701
+"646","Limpopo","Other viral diseases (B25-B34)",2013,1637
+"647","Limpopo","Certain disorders involving the immune mechanism (D80-D89)",2008,1399
+"648","Limpopo","Certain disorders involving the immune mechanism (D80-D89)",2009,1238
+"649","Limpopo","Certain disorders involving the immune mechanism (D80-D89)",2010,1061
+"650","Limpopo","Certain disorders involving the immune mechanism (D80-D89)",2011,937
+"651","Limpopo","Certain disorders involving the immune mechanism (D80-D89)",2012,1189
+"652","Limpopo","Intestinal infectious diseases (A00-A09)",2008,5274
+"653","Limpopo","Intestinal infectious diseases (A00-A09)",2009,4522
+"654","Limpopo","Intestinal infectious diseases (A00-A09)",2010,4099
+"655","Limpopo","Intestinal infectious diseases (A00-A09)",2011,3369
+"656","Limpopo","Intestinal infectious diseases (A00-A09)",2012,3091
+"657","Limpopo","Intestinal infectious diseases (A00-A09)",2013,3136
+"658","Limpopo","Influenza and pneumonia (J10-J18)",2008,5989
+"659","Limpopo","Influenza and pneumonia (J10-J18)",2009,6424
+"660","Limpopo","Influenza and pneumonia (J10-J18)",2010,5984
+"661","Limpopo","Influenza and pneumonia (J10-J18)",2011,5376
+"662","Limpopo","Influenza and pneumonia (J10-J18)",2012,4747
+"663","Limpopo","Influenza and pneumonia (J10-J18)",2013,4009
+"664","Limpopo","Hypertensive diseases (I10-I15)",2008,1196
+"665","Limpopo","Hypertensive diseases (I10-I15)",2009,1525
+"666","Limpopo","Hypertensive diseases (I10-I15)",2010,1375
+"667","Limpopo","Hypertensive diseases (I10-I15)",2011,1371
+"668","Limpopo","Hypertensive diseases (I10-I15)",2012,1414
+"669","Limpopo","Hypertensive diseases (I10-I15)",2013,1635
+"670","Limpopo","Other forms of heart disease (I30-I52)",2008,2574
+"671","Limpopo","Other forms of heart disease (I30-I52)",2009,2415
+"672","Limpopo","Other forms of heart disease (I30-I52)",2010,1897
+"673","Limpopo","Other forms of heart disease (I30-I52)",2011,1692
+"674","Limpopo","Other forms of heart disease (I30-I52)",2012,1636
+"675","Limpopo","Other forms of heart disease (I30-I52)",2013,1998
+"676","Limpopo","Chronic lower respiratory diseases (J40-J47)",2008,983
+"677","Limpopo","Chronic lower respiratory diseases (J40-J47)",2009,916
+"678","Limpopo","Human immunodeficiency virus [HIV] disease (B20-B24)",2010,785
+"679","Limpopo","Human immunodeficiency virus [HIV] disease (B20-B24)",2012,1033
+"680","Limpopo","Human immunodeficiency virus [HIV] disease (B20-B24)",2013,1552
+"681","Limpopo","Cerebrovascular diseases (I60-I69)",2008,2193
+"682","Limpopo","Cerebrovascular diseases (I60-I69)",2009,2397
+"683","Limpopo","Cerebrovascular diseases (I60-I69)",2010,2583
+"684","Limpopo","Cerebrovascular diseases (I60-I69)",2011,2384
+"685","Limpopo","Cerebrovascular diseases (I60-I69)",2012,2149
+"686","Limpopo","Cerebrovascular diseases (I60-I69)",2013,2236
+"687","Limpopo","Diabetes mellitus (E10-E14)",2008,1619
+"688","Limpopo","Diabetes mellitus (E10-E14)",2009,1924
+"689","Limpopo","Diabetes mellitus (E10-E14)",2010,1915
+"690","Limpopo","Diabetes mellitus (E10-E14)",2011,1879
+"691","Limpopo","Diabetes mellitus (E10-E14)",2012,2229
+"692","Limpopo","Diabetes mellitus (E10-E14)",2013,2472
+"693","Limpopo","Tuberculosis (A15-A19)",2008,4854
+"694","Limpopo","Tuberculosis (A15-A19)",2009,4696
+"695","Limpopo","Tuberculosis (A15-A19)",2010,4199
+"696","Limpopo","Tuberculosis (A15-A19)",2011,4311
+"697","Limpopo","Tuberculosis (A15-A19)",2012,4175
+"698","Limpopo","Tuberculosis (A15-A19)",2013,3653
