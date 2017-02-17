@@ -7,7 +7,7 @@ output:
     orientation: columns
     #theme: lumen # optional
     vertical_layout: fill
-    source_code: embed
+    source_code: embed #optional, if not set as embed then code not included/visible
 ---
 
 ```{r setup, include=FALSE}
